@@ -1,0 +1,1 @@
+ C:\\Users\\thira\\OneDrive\\Documents\\GitHub\\firebase_real_time_db_listen\\.dart_tool\\flutter_build\\c7d26401a9b5b89b1aa8d28c99433e82\\native_assets.yaml: 
